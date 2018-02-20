@@ -1,0 +1,47 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+/* body{
+  display:flex;
+} */
+
+.tableF, th, tr, td{
+  border: solid 1px black;
+}
+
+#LilDiv{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  display:flex;
+
+}
+
+li{
+  line-height: 1.25;
+}
+
+.left {
+    border-style: solid;
+    border-color: black;
+    float:left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.right {
+    border-style:solid;
+    border-color: black;
+    float:right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
